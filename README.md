@@ -25,6 +25,7 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 # 🚀 About Me
 
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Yammery+Zárate+Morales;Full+Stack+Developer;Backend+Development;UI%2FUX+Design;Database+Optimization;Turning+ideas+into+real+applications+🚀" />
@@ -274,14 +275,28 @@ Learning:
 
 # 📌 Fun Fact
 
-```javascript
-while(alive){
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=BB9AF7&center=true&vCenter=true&width=500&lines=while(alive)+%7B;eat();sleep();code();repeat();%7D" />
+
+</div>
+
+---
+
+# ❤️ Dreams
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F1ZXV0dWl1eHVxOG5mNmE4d2R4d3JrM3o2b2F0c2I5dWg2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=C792EA&center=true&vCenter=true&width=500&lines=Dream+Big+✨;Code+with+Passion+💜;Coffee+%2B+Music+%2B+Coding+🎧;Always+Learning+🚀" />
+
+</div>
+
 
 ---
 
