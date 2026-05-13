@@ -293,7 +293,7 @@ Learning:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=C792EA&center=true&vCenter=true&width=500&lines=Dream+Big+✨;Code+with+Passion+💜;Coffee+%2B+Music+%2B+Coding+🎧;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=✨My+world✨;💜+Frontend+Developer;🎧+Music+%7C+Coffee+%7C+Code;🚀+Never+Stop+Learning" />
 
 </div>
 
