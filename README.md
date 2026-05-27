@@ -31,7 +31,11 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,10
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Ingeniera+De+Software;Desarrolladora+Frontend+%26+Backend;Flask+%7C+PostgreSQL+%7C+JavaScript;Siempre+Aprendiendo+Nuevas+Tecnologías"/>
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=28&pause=1200&duration=3500&color=B8860B&center=true&vCenter=true&width=950&lines=%F0%9F%92%9B+Ingeniera+de+Software;%E2%9C%A8+Frontend+%26+Backend+Developer;%F0%9F%94%A5+Flask+%7C+PostgreSQL+%7C+JavaScript;%F0%9F%9A%80+Construyendo+Soluciones+Digitales"
+  alt="Typing SVG"
+/>
+
 </div>
 
 <img 
@@ -248,16 +252,13 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,10
 />
 
 # 📈 Actividad de Desarrollo
-
 <div align="center">
 
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yammery80&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yammery80&theme=transparent&title_color=0:3E2723,50:B8860B,100:FFD700&&text_color=0:3E2723,50:B8860B,100:FFD700&&icon_color=0:3E2723,50:B8860B,100:FFD700&&bg_color=000000"
 />
 
-
 </div>
-
 <img 
 src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
 />
@@ -329,7 +330,10 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,10
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=BB9AF7&center=true&vCenter=true&width=500&lines=while(alive)+%7B;eat();sleep();code();repeat();%7D" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9C%A8+while(alive)+%7B;%F0%9F%92%BB+create();;%F0%9F%8C%9F+innovate();;%F0%9F%9A%80+code();;%7D"
+  alt="Typing SVG"
+/>
 
 </div>
 
@@ -347,7 +351,14 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,10
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=✨Mi+mundo✨;💜+Desarrolladora+BackEnd;🎧+Música+%7C+Té+%7C+Código;🚀+Nunca+Dejar+De+Aprender" />
+<div align="center">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=26&duration=3500&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=800&lines=%E2%9C%A8+Bienvenido+a+mi+Universo+Digital+%E2%9C%A8;%F0%9F%92%BB+Backend+Developer;%F0%9F%8C%9F+Clean+Code+%7C+Innovation+%7C+Creativity;%F0%9F%9A%80+Construyendo+el+Futuro+con+C%C3%B3digo"
+  alt="Typing SVG"
+/>
+
+</div>
 
 </div>
 
