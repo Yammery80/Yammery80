@@ -22,7 +22,9 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 🚀 Acerca de mí
 
@@ -32,7 +34,9 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Ingeniera+De+Software;Desarrolladora+Frontend+%26+Backend;Flask+%7C+PostgreSQL+%7C+JavaScript;Siempre+Aprendiendo+Nuevas+Tecnologías"/>
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 💻 Full Stack Developer focused on creating modern, scalable, and efficient applications. 
 🎨 Passionate about UI/UX design and building clean digital experiences.  
@@ -43,7 +47,9 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 ⚡ Disfruto trabajar en proyectos que representen retos reales y me permitan seguir evolucionando técnicamente.  
 📚 Actualmente fortaleciendo conocimientos en arquitectura backend, optimización y tecnologías modernas.
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 🛠️ Pila de tecnologías
 
@@ -53,19 +59,25 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 ## ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,javascript,typescript,html,react,nextjs,git,github,docker,postman,vscode,java,flutter"/>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 ## 🗄️ Base de datos
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase"/>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 ## ☁️ Tecnologías y herramientas
 
@@ -73,7 +85,9 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📊 GitHub Análiticas
 
@@ -85,36 +99,51 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 </div>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yammery80&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<br>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yammery80&theme=dark&hide_border=true&ring=FFD700&fire=B8860B&currStreakLabel=FFD700"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yammery80&layout=compact&theme=transparent&title_color=FFD700&text_color=FFFFFF&border_color=B8860B"/>
 
 </div>
 
----
+
+
+</div>
+
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📈 Gráfica de Contribuciones
 
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yammery80&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yammery80&bg_color=0d1117&color=FFD700&line=B8860B&point=FFFFFF&area=true&hide_border=true"/>
+
+<br>
+
+
 
 </div>
-
----
-
 
 # 🏆 GitHub Trofeos
 
 <div align="center">
 
 <img 
-src="https://github-profile-trophy.vercel.app/?username=Yammery80&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+src="https://github-profile-trophy-eight.vercel.app/?username=Yammery80&theme=onestar&no-frame=true&no-bg=true&margin-w=15"
 />
 
 </div>
 
 
-
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 🧠 Mentalidad de Ingeniero
 
@@ -130,7 +159,9 @@ src="https://github-profile-trophy.vercel.app/?username=Yammery80&theme=algolia&
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📌 Caracteristicas de Proyectos
 
@@ -167,7 +198,9 @@ Dashboard administrativo con métricas visuales, autenticación y control avanza
 - Estadísticas dinámicas
 - Gestión de usuarios
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # ⚡ Enfoque Actual
 
@@ -190,7 +223,9 @@ Aprendizaje:
   - Patrones de Backend Avanzados
 ```
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📂 Estructura de Proyectos más usada
 
@@ -208,17 +243,24 @@ Aprendizaje:
  ┗ 📜 .env
 ```
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📈 Actividad de Desarrollo
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yammery80&theme=tokyonight"/>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yammery80&theme=github_dark"
+/>
+
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 🛣️ 2026 Metas
 
@@ -229,7 +271,9 @@ Aprendizaje:
 - [ ] Explorar desarrollo móvil
 - [ ] Crear APIs avanzadas
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 💬 Favorite Quote
 
@@ -240,7 +284,9 @@ Aprendizaje:
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 🌐 Conecta Conmigo
 
@@ -264,8 +310,9 @@ Aprendizaje:
 
 </div>
 
----
-
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 # 🐍 Serpiente de contribuciones
 
 <div align="center">
@@ -274,7 +321,9 @@ Aprendizaje:
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # 📌 Factos Divertidos
 
@@ -284,7 +333,9 @@ Aprendizaje:
 
 </div>
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 # ❤️ Sueños
 
@@ -301,7 +352,9 @@ Aprendizaje:
 </div>
 
 
----
+<img 
+src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,100:FFD700&height=3&section=footer"
+/>
 
 <div align="center">
 
