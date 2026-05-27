@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Yammery%20Zárate%20Morales&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:3E2723,50:B8860B,100:FFD700&text=Meribeth%20Yamilet%20Pérez%20Espinoza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👨‍💻 Full Stack Developer | Software Enthusiast
+
+
+# 👨‍💻 Desarrolladora Backend | Entusiasta de Código limpio Minimalista
 
 <p align="center">
 Desarrolladora enfocada en construir aplicaciones web modernas, escalables y funcionales.  
@@ -10,7 +12,6 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+%26+Frontend+Developer;Flask+%7C+PostgreSQL+%7C+JavaScript;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
@@ -23,31 +24,28 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 🚀 About Me
+# 🚀 Acerca de mí
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Yammery+Zárate+Morales;Full+Stack+Developer;Backend+Development;UI%2FUX+Design;Database+Optimization;Turning+ideas+into+real+applications+🚀" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Ingeniera+De+Software;Desarrolladora+Frontend+%26+Backend;Flask+%7C+PostgreSQL+%7C+JavaScript;Siempre+Aprendiendo+Nuevas+Tecnologías"/>
 </div>
 
 ---
 
-💻 Full Stack Developer focused on creating modern, scalable, and efficient applications.  
-
+💻 Full Stack Developer focused on creating modern, scalable, and efficient applications. 
 🎨 Passionate about UI/UX design and building clean digital experiences.  
-
 ⚡ Specialized in backend development, database optimization, and web technologies.  
-
 🚀 Constantly learning and transforming ideas into real-world solutions.
+
 💡 Me apasiona desarrollar soluciones digitales modernas y funcionales, combinando diseño, lógica y rendimiento.  
 ⚡ Disfruto trabajar en proyectos que representen retos reales y me permitan seguir evolucionando técnicamente.  
 📚 Actualmente fortaleciendo conocimientos en arquitectura backend, optimización y tecnologías modernas.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Pila de tecnologías
 
 <div align="center">
 
@@ -59,17 +57,17 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ## ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs"/>
+<img src="https://skillicons.dev/icons?i=python,flask,django,nodejs,javascript,typescript,html,react,nextjs,git,github,docker,postman,vscode,java,flutter"/>
 
 ---
 
-## 🗄️ Database
+## 🗄️ Base de datos
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase"/>
 
 ---
 
-## ☁️ Tools & Technologies
+## ☁️ Tecnologías y herramientas
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,vscode"/>
 
@@ -77,7 +75,7 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Análiticas
 
 <div align="center">
 
@@ -93,7 +91,7 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Gráfica de Contribuciones
 
 <div align="center">
 
@@ -103,7 +101,7 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Trofeos
 
 <div align="center">
 
@@ -113,7 +111,7 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 🧠 Engineering Mindset
+# 🧠 Mentalidad de Ingeniero
 
 <div align="center">
 
@@ -129,12 +127,12 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
-# 📌 Featured Projects
+# 📌 Caracteristicas de Proyectos
 
-## 🔹 Administrative Management System
+## 🔹 Sistema Administrativo de MicroEmpresas
 Sistema administrativo desarrollado con Flask y PostgreSQL para gestión de empleados, pagos y generación automática de reportes PDF.
 
-### Features
+### Características
 - Gestión de usuarios
 - Sistema de autenticación
 - Generación de PDFs
@@ -144,10 +142,10 @@ Sistema administrativo desarrollado con Flask y PostgreSQL para gestión de empl
 
 ---
 
-## 🔹 Educational Web Platform
+## 🔹 Plataforma de educación
 Plataforma enfocada en mejorar la experiencia educativa mediante contenido dinámico e interfaces modernas.
 
-### Features
+### Características
 - Diseño responsivo
 - Interfaz intuitiva
 - Optimización frontend
@@ -155,10 +153,10 @@ Plataforma enfocada en mejorar la experiencia educativa mediante contenido diná
 
 ---
 
-## 🔹 Analytics Dashboard
+## 🔹 Panel de Análisis
 Dashboard administrativo con métricas visuales, autenticación y control avanzado de datos.
 
-### Features
+### Caracteristicas
 - Visualización de datos
 - Panel administrativo
 - Estadísticas dinámicas
@@ -166,30 +164,30 @@ Dashboard administrativo con métricas visuales, autenticación y control avanza
 
 ---
 
-# ⚡ Current Focus
+# ⚡ Enfoque Actual
 
 ```yaml
-Backend Architecture:
+Arquitectura Backend:
   - Flask
   - APIs REST
   - PostgreSQL
-  - Authentication Systems
+  - Sistemas de Autenticación
 
-Frontend Development:
-  - Responsive Design
+Desarrollo Frontend:
+  - Diseño Resposivo
   - UI/UX
   - JavaScript
   - TailwindCSS
 
-Learning:
+Aprendizaje:
   - Docker
-  - Cloud Deployment
-  - Advanced Backend Patterns
+  - Despliegue en la nube
+  - Patrones de Backend Avanzados
 ```
 
 ---
 
-# 📂 Project Structure
+# 📂 Estructura de Proyectos más usada
 
 ```bash
 📦 project
@@ -207,7 +205,7 @@ Learning:
 
 ---
 
-# 📈 Development Activity
+# 📈 Actividad de Desarrollo
 
 <div align="center">
 
@@ -217,7 +215,7 @@ Learning:
 
 ---
 
-# 🛣️ 2026 Goals
+# 🛣️ 2026 Metas
 
 - [ ] Publicar más proyectos open source
 - [ ] Aprender arquitectura escalable
@@ -232,14 +230,14 @@ Learning:
 
 <div align="center">
 
-> “First, solve the problem. Then, write the code.”  
-> — John Johnson
+> “Un buen desarrollador es aquel que encuentra soluciones a los problemas antes de que surjan.”  
+> — Bill Gates (Fundador de Microsoft)
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Conecta Conmigo
 
 <div align="center">
 
@@ -263,7 +261,7 @@ Learning:
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Serpiente de contribuciones
 
 <div align="center">
 
@@ -273,7 +271,7 @@ Learning:
 
 ---
 
-# 📌 Fun Fact
+# 📌 Factos Divertidos
 
 <div align="center">
 
@@ -283,7 +281,7 @@ Learning:
 
 ---
 
-# ❤️ Dreams
+# ❤️ Sueños
 
 <div align="center">
 
@@ -293,7 +291,7 @@ Learning:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=✨My+world✨;💜+Frontend+Developer;🎧+Music+%7C+Coffee+%7C+Code;🚀+Never+Stop+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=✨Mi+mundo✨;💜+Desarrolladora+BackEnd;🎧+Música+%7C+Té+%7C+Código;🚀+Nunca+Dejar+De+Aprender" />
 
 </div>
 
@@ -302,8 +300,9 @@ Learning:
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile ⭐
+## ⭐ Gracias por visitar mi perfil ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3E2723,50:B8860B,100:FFD700"/>
+
 
 </div>
