@@ -101,13 +101,18 @@ Apasionada por el desarrollo full stack, la arquitectura de software y la experi
 
 ---
 
+
 # 🏆 GitHub Trofeos
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Yammery80&theme=tokyonight&row=1&column=7"/>
+<img 
+src="https://github-profile-trophy.vercel.app/?username=Yammery80&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
+/>
 
 </div>
+
+
 
 ---
 
