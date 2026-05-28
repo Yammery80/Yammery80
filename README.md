@@ -331,7 +331,7 @@ src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2723,50:B8860B,10
 <div align="center">
 
 <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9C%A8+while(alive)+%7B;%F0%9F%92%BB+create();;%F0%9F%8C%9F+innovate();;%F0%9F%9A%80+code();;%7D"
+  src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=26&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=850&lines=%E2%9C%A8+while(alive)+%7B;%F0%9F%92%BB+create();;%F0%9F%8C%9F+innovate();;%F0%9F%8C%9F+sleep();;%F0%9F%8C%9F+code();;%F0%9F%9A%80+eat();;%7D"
   alt="Typing SVG"
 />
 
